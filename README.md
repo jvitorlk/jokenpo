@@ -1,6 +1,6 @@
 # Jogo Pedra, Papel e Tesoura em Python
 
-Este é um simples jogo de Pedra, Papel e Tesoura criado em Python usando a biblioteca Tkinter para criar uma interface gráfica.
+Este é um simples jogo de Pedra, Papel e Tesoura criado em Python usando a biblioteca Tkinter para criar uma interface gráfica, focado em back-end (não reparem no front-end rs).
 
 ## Como Jogar
 
